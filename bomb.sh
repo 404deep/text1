@@ -4,4 +4,5 @@
 # Script follows here:
 
 echo "working"
-sh /XLR8_BOMBER/xlr8.sh
+SCRIPT_PATH="/XLR8_BOMBER/xlr8.sh"
+"$SCRIPT_PATH"
