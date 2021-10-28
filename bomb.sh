@@ -1,4 +1,9 @@
 #!/bin/sh
 #!/bin/bash
-pwd
-ls
+# Author : Deep
+# Copyright (c)
+# Script follows here:
+
+echo "What is your name?"
+read PERSON
+echo "Hello, $PERSON"
